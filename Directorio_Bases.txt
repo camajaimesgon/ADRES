@@ -1,0 +1,16 @@
+#
+
+Municipios.db  - Base SQLite de los municipios 
+
+
+Municipios.xlsx - Base original 
+
+Prestadores.xlsx - Base original 
+
+Prueba Camilo Andrés Jaimes Gonzáles- ADRES.docx  - Documento Word
+
+Script_Prueba_ADRES.R  - Script prueba 
+ 
+municipios.csv -  salida base limpia  arreglada 
+
+prestadores.csv - salida base limpia y arreglada
